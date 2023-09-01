@@ -1,0 +1,26 @@
+/* Introduction to Css
+ */
+
+body{
+    padding: 200px;
+    background-color: rgb(16, 33, 37);
+}
+
+
+ .inputbox
+ {
+     color: rgb(73, 151, 170);
+     align-items: center;
+     position: absolute;
+     padding: 70px;
+
+ }
+
+ .text1
+ {
+    position: relative;
+    color: rgb(73, 151, 170);
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+     
+ }
