@@ -1,0 +1,19 @@
+h1{
+    font-size: 40px;
+    height: 200px;
+    font-size: italic;
+    font-family: cursive;
+    /* background-image: url(https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat; */
+    
+}
+body{
+    background-image: url(https://images.pexels.com/photos/743986/pexels-photo-743986.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    /* float: left; */
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    
+
+}
